@@ -113,6 +113,7 @@ function gameEnd() {
 var userName = prompt('What is your name?');
 alert('Hello ' + userName + '! welcome to a page about me.');
 
+
 easyQuestions();
 numberQuestion();
 gameQuestion();
